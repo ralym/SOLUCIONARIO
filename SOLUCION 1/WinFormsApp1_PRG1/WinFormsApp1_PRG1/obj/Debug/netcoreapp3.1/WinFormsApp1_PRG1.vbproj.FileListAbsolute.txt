@@ -1,0 +1,15 @@
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\obj\Debug\netcoreapp3.1\WinFormsApp1_PRG1.Form1.resources
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\obj\Debug\netcoreapp3.1\WinFormsApp1_PRG1.vbproj.GenerateResource.cache
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\obj\Debug\netcoreapp3.1\WinFormsApp1_PRG1.AssemblyInfoInputs.cache
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\obj\Debug\netcoreapp3.1\WinFormsApp1_PRG1.AssemblyInfo.vb
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\obj\Debug\netcoreapp3.1\WinFormsApp1_PRG1.vbproj.CoreCompileInputs.cache
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\bin\Debug\netcoreapp3.1\WinFormsApp1_PRG1.exe
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\bin\Debug\netcoreapp3.1\WinFormsApp1_PRG1.deps.json
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\bin\Debug\netcoreapp3.1\WinFormsApp1_PRG1.runtimeconfig.json
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\bin\Debug\netcoreapp3.1\WinFormsApp1_PRG1.runtimeconfig.dev.json
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\bin\Debug\netcoreapp3.1\WinFormsApp1_PRG1.dll
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\bin\Debug\netcoreapp3.1\WinFormsApp1_PRG1.pdb
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\obj\Debug\netcoreapp3.1\WinFormsApp1_PRG1.dll
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\obj\Debug\netcoreapp3.1\WinFormsApp1_PRG1.pdb
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\obj\Debug\netcoreapp3.1\WinFormsApp1_PRG1.genruntimeconfig.cache
+C:\Users\RAUL\source\repos\WinFormsApp1_PRG1\WinFormsApp1_PRG1\obj\Debug\netcoreapp3.1\WinFormsApp1_PRG1.vbprojAssemblyReference.cache
